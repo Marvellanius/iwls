@@ -1,5 +1,6 @@
-# Stageplan
 
+![Kamertje.nl logo](https://www.kamertje.nl/images/KLogo_Kleur-S.png "Kamertje.nl logo")
+# Gamification Kamertje.nl
 
 ### Organisatorische aspecten
 
@@ -95,7 +96,6 @@ De recente lancering heeft al een stevige update gedaan op het gebied van uiterl
 |18       |               |               |         |
 |19       |               |               |         |
 |20       |               |               |         |
-|---------|---------------|---------------|---------|
 
 ---
 
