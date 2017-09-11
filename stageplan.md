@@ -2,7 +2,17 @@
 ![Kamertje.nl logo](https://www.kamertje.nl/images/KLogo_Kleur-S.png "Kamertje.nl logo")
 # Gamification Kamertje.nl
 
-### Inleiding
+| Versiebeheer| |
+|---|---|
+|Versienummer|0.3|
+|Versiedatum|11 september 2017|
+|Type|Concept|
+|Auteur|Dick van Viegen|
+|Studentnummer|s1096864|
+|Stagedocent|Robbert Winkel|
+|Stagebedrijf|Kamernet B.V.|
+|Bedrijfsbegeleider 1|Thijs Luxemburg|
+|Bedrijfsbegeleider 2|Steven Ouwerkerk|
 
 ### Organisatie
 Het bedrijf waar ik stage ga lopen is Kamernet B.V. (in het vervolg: Kamernet). Kamernet is momenteel de marktleider in kameraanbod in Nederland. Het bedrijf bezit meerdere websites, waaronder [kamertje.nl](https://www.kamertje.nl).  
@@ -70,6 +80,13 @@ Denk bij acties waar credits aan besteed kunnen worden bijvoorbeeld aan:
 Met het gebruik van deze systemen hoopt Kamertje zichzelf weer een relevante speler op de kamer markt te maken na een aantal jaar geen verandering te hebben gezien aan de website.  
 De recente lancering heeft al een stevige update gedaan op het gebied van uiterlijk en hier willen ze graag op verder met het idee dat de inkomstenstroom uit Kamertje zal stijgen.
 
+#### Probleem/Kans  
+De lancering van het nieuwe 'Kamertje 2.0' word gezien als dé uitgelezen kans om nieuwe systemen, of systemen die bijvoorbeeld bij Kamernet als te riskant worden geacht, uit te proberen.  
+Ik heb, samen met Lennaert Oudshoorn, het afgelopen jaar gewerkt aan de vernieuwing van Kamertje.nl en hier al redelijk vooruitgang geboekt op het moderniseren van de website. Maar moderniseren van de look is niet alles, tegenwoordig is het meer 'mainstream' geworden om te werken met microtransacties in zowel games als andere toepassingen.  
+
+Ik verwacht dat door Kamertje te laten werken op een credit-systeem in plaats van een afname van een vast aantal dagen, de conversie van website bezoeker naar betaalde gebruiker hoger zal liggen, daar de drempel tot betaling lager ligt, door kleinere bedragen toe te staan en daarmee de gebruiker in staat te stellen om wat credits te kopen voor nét die ene advertentie waar hij/zij op wil reageren.  
+Uit eigen ervaring weet ik dat ik bij Kamernet nooit een premium account heb genomen omdat ik vrij weinig relevant aanbod voorbij zie komen, maar dit betekend wel dat ik nooit kan reageren, ook als er wél wat voorbij komt. Het lijkt mij dat ik niet de enige ben waarvoor dit een probleem is.
+
 #### Risico's
 **Planning te strak**  
 Afdekking: planning regelmatig herzien.  
@@ -90,26 +107,40 @@ Niveau: Laag
 
 Het doel is om het nieuwe verdienmodel en de daaraan gelinkte achievements live te hebben staan voor het eind van de stage.
 
+Dit ga ik bereiken door onderstaande planning (zo goed mogelijk) te volgen.
+
 [Planning spreadsheet](https://docs.google.com/spreadsheets/d/1D0H1WNXHEwQLitSnGXJpPRHJGZ08W1AvALy0TuoUE_M/edit?usp=sharing)
+
+Om dit te realiseren voor mijzelf zal ik steviger in mijn schoenen moeten gaan staan om de tijd voor mijn stageopdracht af te bakenen, en niet iedere keer dat er iets aan me gevraagd word, direct op het niet stage-gerelateerde probleem in te duiken.
 
 ---
 
 ### Overige zaken
 
 #### Persoonlijke leerdoelen
-* Organisatorisch vermogen
-* Ontwerpen & realiseren van complexe systemen
-*
+###### Organisatorisch vermogen
+Ik wil gedurende mijn stage een beter inzicht voor long-term planning van IT-projecten ontwikkelen, en hier ook aan bijdragen. Dit zal ik gaandeweg bereiken door deel te nemen aan de sprint planning, het bewaken van diezelfde planning en het bijwonen van de maandelijkse target-meetings.
+###### Ontwerpen & realiseren van complexe systemen
+Tijdens deze stage zal ik zowel binnen als buiten mijn stageopdracht om veel systemen moeten ontwerpen en realiseren. Dit wil ik zo netjes mogelijk, volgens de best practices van de betreffende taal, en efficiënt doen.
+###### Discipline
+Ik heb zelf vrij veel moeite met strakke planningen aanhouden als het aankomt op studie-opdrachten, en dat zal hier niet anders zijn. In een werksfeer zal ik me sneller geneigd voelen door te gaan met de opdrachten voor de werkgever in plaats van mijn stageopdracht. Om deze stage überhaupt tot een goed einde te brengen, zal ik gedisciplineerder moeten worden in het uitvoeren van stage specifieke taken.
+###### Documentatie
+Gedurende deze stage zal ik de code voldoende documenteren zodat, wanneer ik weg ben, andere developers het zo snel mogelijk op kunnen pakken. Daarnaast zal ik ook voor de studie documenten op moeten maken, een stage- en product-verslag. Ik ben vrij zwak in het schrijven van verslagen, en zal tijdens de stage iedere week stappen zetten in het schrijven van deze verslagen.
 
 #### Beroepstaken niveau 2
-**Gebruikersinteractie Analyseren**, het onderzoeken van de best practices voor de voorgestelde veranderingen aan het systeem, maar ook analyseren van de huidige interactie ten behoeve van het implementeren van de nieuwe systemen.  
-**Gebruikersinteractie Ontwerpen**, ontwerpen van de gebruikersinteractie, wat vooral op de interface en de feedback bij betalingen en het behalen van achievements   
-**Gebruikersinteractie Realiseren**, zorgen dat al het bovenstaande op een robuuste manier gerealiseerd word en live staat voor het eind van de stage.  
+Tijdens deze stage zal ik onderstaande beroepstaken op niveau 2 (HBO-i competenties) uitvoeren:  
+
+**Gebruikersinteractie Analyseren**  
+Het onderzoeken van de best practices voor de voorgestelde veranderingen aan het systeem, maar ook analyseren van de huidige interactie ten behoeve van het implementeren van de nieuwe systemen.  
+**Gebruikersinteractie Ontwerpen**  
+Ontwerpen van de gebruikersinteractie, wat vooral op de interface en de feedback bij betalingen en het behalen van achievements neerkomt.   
+**Gebruikersinteractie Realiseren**  
+Zorgen dat het achievement en het credit systeem op een robuuste manier gerealiseerd word en live staat voor het eind van de stage.  
 
 
 #### Overige werkzaamheden
-Het onderhouden van het recent gelanceerde Kamertje.nl.  
-Bewaken van de SCRUM-sprints
+Het onderhouden van het recent gelanceerde Kamertje.nl. Hieronder zal ook het uitvoeren van bugfixes, algemene verbeteringen en nieuwe feature requests van de business kant van zaken.
+Daarnaast zal het bewaken van de SCRUM-sprints mijn verantwoordelijkheid zijn.
 
 
 ---
