@@ -1,6 +1,7 @@
 ![Kamertje.nl logo](https://www.kamertje.nl/images/KLogo_Kleur-S.png "Kamertje.nl logo")
 # Stageverslag Kamertje.nl Gamification & Monetization
 
+---
 
 | Versiebeheer| |
 |---|---|
@@ -13,6 +14,8 @@
 |Stagebedrijf|Kamernet B.V.|
 |Bedrijfsbegeleider 1|Thijs Luxemburg|
 |Bedrijfsbegeleider 2|Steven Ouwerkerk|
+
+---
 
 ## Week 1
 * Opzet stageplan

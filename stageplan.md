@@ -1,6 +1,8 @@
 
 ![Kamertje.nl logo](https://www.kamertje.nl/images/KLogo_Kleur-S.png "Kamertje.nl logo")
-# Gamification Kamertje.nl
+# Stageplan Kamertje.nl Gamification & Monetization
+
+---
 
 | Versiebeheer| |
 |---|---|
@@ -13,6 +15,8 @@
 |Stagebedrijf|Kamernet B.V.|
 |Bedrijfsbegeleider 1|Thijs Luxemburg|
 |Bedrijfsbegeleider 2|Steven Ouwerkerk|
+
+---
 
 ### Organisatie
 Het bedrijf waar ik stage ga lopen is Kamernet B.V. (in het vervolg: Kamernet). Kamernet is momenteel de marktleider in kameraanbod in Nederland. Het bedrijf bezit meerdere websites, waaronder [kamertje.nl](https://www.kamertje.nl).  
