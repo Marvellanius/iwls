@@ -19,6 +19,12 @@
 
 ## Week 1
 * Opzet stageplan
+* Opzetten VPN server op VPS zodat ik vanuit huis ook bij de Kamertje systemen kon komen
+* Bugfixes na lancering Kamertje:
+    * Email alerts (kamer plaatsen) lagen er uit, veel geleerd over debugging
+    * Logging geïmplementeerd op een Slack-bot
+* Eerste sprintplanning
+
 
 
 ## Week 2
@@ -30,3 +36,7 @@
     * Nieuwe searches komen dichterbij;
         * 'monetization through virtual goods web' ->
         * ''
+* Eerste monthly business meeting bijgewoond (voornamelijk Kamernet, maar ook Kamertje milestones besproken)
+* PHP-debug leren gebruiken in editor of choice
+* Voor het eerst versioning gebruikt voor css/js files
+* Eerste onderzoek naar GoogleTagManager gebruik

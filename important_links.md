@@ -17,3 +17,15 @@ http://www.sciencedirect.com/science/article/pii/S0167923609001298
 
 Clemons, Eric K., *Business Models for Monetizing Internet Applications and Web Sites: Experience, Theory, and Predictions*
 http://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222260202
+
+
+Blair, L. (2011). *The Cake Is Not A Lie: How to Design Effective Achievements*. As viewed on 06/09/2017 on [https://www.gamasutra.com/view/feature/6360/the_cake_is_not_a_lie_how_to_.php?print=1][1]  
+Blair, L. (2011). *The use of video game achievements to enhance player performance, self-efficacy, and motivation*. As viewed on 06/09/2017 on [http://etd.fcla.edu/CF/CFE0004471/Dissertation_final.pdf][3]  
+Gyuhwan, O. & Taiyoung R. (2007). *Game Design on Item-selling Based Payment Model in
+Korean Online Games*. As viewed on 06/09/2017 on [http://homes.lmc.gatech.edu/~cpearce3/DiGRA07/Proceedings/085.pdf][2]  
+Steamworks Documentation. *Microtransactions (In-Game Purchases)*. As viewed on 06/09/2017 on [https://partner.steamgames.com/doc/features/microtransactions][4]
+
+[1]: https://www.gamasutra.com/view/feature/6360/the_cake_is_not_a_lie_how_to_.php?print=1
+[2]: http://homes.lmc.gatech.edu/~cpearce3/DiGRA07/Proceedings/085.pdf
+[3]: http://etd.fcla.edu/CF/CFE0004471/Dissertation_final.pdf
+[4]: https://partner.steamgames.com/doc/features/microtransactions

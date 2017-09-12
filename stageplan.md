@@ -19,7 +19,7 @@
 ---
 
 ### Organisatie
-Het bedrijf waar ik stage ga lopen is Kamernet B.V. (in het vervolg: Kamernet). Kamernet is momenteel de marktleider in kameraanbod in Nederland. Het bedrijf bezit meerdere websites, waaronder [kamertje.nl](https://www.kamertje.nl).  
+Het bedrijf waar ik stage ga lopen is Kamernet B.V. (in het vervolg: Kamernet). Kamernet is momenteel de marktleider in kameraanbod in Nederland. Het bedrijf bezit meerdere websites, waaronder [kamertje.nl](https://www.kamertje.nl) (in het vervolg: Kamertje).  
 Het Kamernet team bestaat uit ongeveer 16 man, waarvan grotendeels developers. Ik zal onderdeel zijn van een apart team (ongeveer 3 man) binnen Kamernet dat zich over het Kamertje.nl project zal buigen.
 
 Kamernet richt zich op het zo goed mogelijk adverteren van woningen, met een nadruk op studenten. Hiervoor zit het support team bovenop bijvoorbeeld scam-praktijken en zijn ze actief bezig met het promoten van advertenties en het eigen merk op facebook.
@@ -135,16 +135,34 @@ Gedurende deze stage zal ik de code voldoende documenteren zodat, wanneer ik weg
 Tijdens deze stage zal ik onderstaande beroepstaken op niveau 2 (HBO-i competenties) uitvoeren:  
 
 **Gebruikersinteractie Analyseren**  
-Het onderzoeken van de best practices voor de voorgestelde veranderingen aan het systeem, maar ook analyseren van de huidige interactie ten behoeve van het implementeren van de nieuwe systemen.  
+Het onderzoeken van de best practices voor de voorgestelde veranderingen aan het systeem, maar ook analyseren van de huidige interactie ten behoeve van het implementeren van de nieuwe systemen.
+Dit onderzoek wil ik gaan doen aan de hand van een literatuuronderzoek, het vinden van relevante artikelen voor zowel credit (digital currency) systemen en achievement systemen. Hierbij zoek ik bijvoorbeeld naar artikelen over;
+* Digital currency
+    * In-App purchases
+    * Microtransacties in games
+    * Virtual goods for web
+* Achievements
+    * Effective achievements
+    * Achievements in gaming
+    * Achievements on social media platforms
+
+Er is door Thijs Luxemburg al een opzet gemaakt met resultaten van zijn eigen onderzoek naar de implementatie van credit systemen, dit zal ik ook meenemen in mijn eigen onderzoek en onderbouwen/weerleggen waar nodig.
+
 **Gebruikersinteractie Ontwerpen**  
-Ontwerpen van de gebruikersinteractie, wat vooral op de interface en de feedback bij betalingen en het behalen van achievements neerkomt.   
+Ontwerpen van de gebruikersinteractie, wat vooral op de interface en de feedback bij betalingen en het behalen van achievements neerkomt.
+Voor zowel het credit-systeem als het achievement systeem zal ik de frontend én de backend onderdelen moeten ontwerpen.  
+Voor de backend zal dit betekenen dat ik de benodigde database tabellen en relaties goed uitwerk voordat ik deze daadwerkelijk ga bouwen.  
+Voor de frontend zal dit betekenen dat ik voor beide systemen de benodigde views mag gaan ontwerpen. Mijn plan is om hier een aantal verschillende ontwerpen in mock-up vorm te laten A/B testen door mijn collega's, waarna ik de meest prettig ervaren opties zal gaan gebruiken bij de realisatie.
+
 **Gebruikersinteractie Realiseren**  
 Zorgen dat het achievement en het credit systeem op een robuuste manier gerealiseerd word en live staat voor het eind van de stage.  
+Het doel van de stage is het realiseren én implementeren van de beide systemen op de productie servers van Kamertje.  Dit ga ik proberen te bereiken zonder downtime van de huidige systemen, en een plan om de huidige gebruikers met een dagen-product om te zetten naar credit-product.
 
 
 #### Overige werkzaamheden
 Het onderhouden van het recent gelanceerde Kamertje.nl. Hieronder zal ook het uitvoeren van bugfixes, algemene verbeteringen en nieuwe feature requests van de business kant van zaken.
-Daarnaast zal het bewaken van de SCRUM-sprints mijn verantwoordelijkheid zijn.
+Daarnaast zal het bewaken van de SCRUM-sprints mijn verantwoordelijkheid zijn.  
+Als één van de requirements voor mijn stageopdracht (dus zowel het achievement- als het credit-systeem), zal ik ook nog een nieuwe feature; ***Gebruikersprofielen*** toe moeten voegen.
 
 
 ---
